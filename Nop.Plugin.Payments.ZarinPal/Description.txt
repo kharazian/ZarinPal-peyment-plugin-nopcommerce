@@ -1,0 +1,9 @@
+﻿Group: Payment methods
+FriendlyName: ZarinPal
+SystemName: Payments.ZarinPal
+Version: 1.00
+SupportedVersions: 3.90
+Author: Kharazian
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.ZarinPal.dll
+Description: This plugin allows paying with ZarinPal
